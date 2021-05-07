@@ -1,7 +1,7 @@
 README file for Transitioning from Excel to Programming for Exploratory Data Analysis
 ---------
-Author: Lauren Phegley
-Email: lphegley5@gmail.com
+Author: Lauren Phegley  
+Email: lphegley5@gmail.com  
 Creation Date: 2021-05-07
 
 ---------
@@ -32,9 +32,9 @@ Jupyter Notebook - 6.2.0
 
 Python Packages/Libraries - Version:
 
-csv - 1.0
-numpy - 1.19.2
-pandas - 1.2.3
+csv - 1.0  
+numpy - 1.19.2  
+pandas - 1.2.3  
 matplotlib - 3.3.4
 
 --------
