@@ -1,6 +1,3 @@
-# IS497_Final_Project_Repo
-
-
 README file for Transitioning from Excel to Programming for Exploratory Data Analysis
 ---------
 Author: Lauren Phegley
